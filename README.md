@@ -5,5 +5,9 @@ There was a slight problem with her approach though - she was not always capturi
 So as "daddy-daughter project" we built a camera using a raspberry pi zero that would do the work for her. This repository outlines the work we did and provides instruction to anyone who maybe interested in doing the same.  
 
 ## Parts and Materials Needed
-1 x Raspberry Pi Zero W (WiFi Model)  - $19 ($10 + $9 S&H)
-1 x Raspberry Pi Zero Camera - $9.99 (We opted for [this unit from Amazon](https://smile.amazon.com/gp/product/B07KF7GWJL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+1 x Raspberry Pi Zero W (WiFi Model)  ~ $19 ($10 + $9 S&H)  
+1 x Raspberry Pi Zero Camera ~ $10 (We opted for [this unit from Amazon](https://smile.amazon.com/gp/product/B07KF7GWJL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  
+1 x Good Quality USB A Male to USB Micro B Cable 6ft ~ $6  
+1 x USB A 5V 1A Power Supply ~ $6  
+1 x DIY 3D Printed Case (stl files posted here) - $0  
+4 x 30mm rubber suction cups ~ $2  
