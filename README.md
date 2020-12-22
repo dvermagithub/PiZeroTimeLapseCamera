@@ -126,7 +126,7 @@ The Pi Zero camera unit can now be mounted on a window and power attached.
 *Mounted in a window*:
 ![Mounted in Window](https://1.bp.blogspot.com/-pPEFh-tL-I8/X-EZ_1WkM3I/AAAAAAAAZp8/44FpnFUW2jcPqqOlR9rqQSjoWNqp8_P4gCLcBGAsYHQ/w480-h640/IMG_20200508_135949.jpg)
 
-## The Timelapse Application
+## The Time Lapse Camera Application
 
 For the application I preferred to use a combination of Python 3 package called PiCamera and contab for scheduling. While I could have used the python application entirely for scheduling, I preferred con jobs as that would allow for the application to be automatically started upon a reboot or power loss. This method also allowed for easy modification of the time-lapse schedule. For example scheduling from once a day to multiple times per day, etc. via simple crontab edit instead of editing the python program directly every time.
 
