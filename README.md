@@ -8,7 +8,7 @@ So as "daddy-daughter project" over a weekend, we built a camera using a Raspber
 Upon completion, we scheduled a time lapse over 2 days (every 4 hours) and captured some pictures which we converted to an animated gif. Luckily, we caught a late spring snow flurry weekend in May.
 
 *Willow Tree in May:*<br>
-![Willow Tree Time Lapse](https://1.bp.blogspot.com/-hCtGxN88QII/X-FmhuUpbGI/AAAAAAAAZqc/Tr7woK-tV6YYLifInQM3xThExJ4a1wBEQCLcBGAsYHQ/w640-h640/myFile.gif)
+![Willow Tree Time Lapse](myFirstTimeLapse.gif)
 
 ## Parts and Materials Needed
 - 1 x Raspberry Pi Zero W (WiFi Model) - $19 (inc. s&h)  
@@ -73,7 +73,7 @@ Upon completion, we scheduled a time lapse over 2 days (every 4 hours) and captu
     - Disconnect power from the Pi Zero.
     - Open the black sliding clips very gently on both the Pi Zero W and Camera Module.
     - With the Pi Zero W flat on a table (ports facing up), the ribbon cable contacts should be facing down when inserted into the the Pi Zero W and the other end of the ribbon cable should be inserted to the camera module with the camera lens facing down. The cable and camera should look something like this: <br>
-    *Correct Camera Connection*<br>
+    *Correct Camera Connection:*<br>
     ![Correct connection of camera](https://www.arducam.com/wp-content/uploads/2020/02/raspberry-pi-zero-connect-camera-1024x236.png)
     - Make sure the cable is inserted fully and secure the black sliding clips on bot the Pi Zero and the Camera Module.  
     <br>  
