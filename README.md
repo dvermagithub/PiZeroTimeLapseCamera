@@ -7,7 +7,7 @@ So as "daddy-daughter project" over a weekend, we built a camera using a Raspber
 ## Example of Results Captured
 Upon completion, we scheduled a time lapse over 2 days (every 4 hours) and captured some pictures which we converted to an animated gif. Luckily, we caught a late spring snow flurry weekend in May.
 
-*Willow Tree in May*
+*Willow Tree in May:*<br>
 ![Willow Tree Time Lapse](https://1.bp.blogspot.com/-hCtGxN88QII/X-FmhuUpbGI/AAAAAAAAZqc/Tr7woK-tV6YYLifInQM3xThExJ4a1wBEQCLcBGAsYHQ/w640-h640/myFile.gif)
 
 ## Parts and Materials Needed
@@ -73,7 +73,7 @@ Upon completion, we scheduled a time lapse over 2 days (every 4 hours) and captu
     - Disconnect power from the Pi Zero.
     - Open the black sliding clips very gently on both the Pi Zero W and Camera Module.
     - With the Pi Zero W flat on a table (ports facing up), the ribbon cable contacts should be facing down when inserted into the the Pi Zero W and the other end of the ribbon cable should be inserted to the camera module with the camera lens facing down. The cable and camera should look something like this: <br>
-    *Correct Camera Connection*
+    *Correct Camera Connection*<br>
     ![Correct connection of camera](https://www.arducam.com/wp-content/uploads/2020/02/raspberry-pi-zero-connect-camera-1024x236.png)
     - Make sure the cable is inserted fully and secure the black sliding clips on bot the Pi Zero and the Camera Module.  
     <br>  
@@ -93,10 +93,10 @@ I designed a PiZero and camera case using Fusion360 with the following chartacte
 - opening for camera and another for cooling of the Pi Zero chip
 - ability to insert and remove power cord
 
-*Base Design*:
+*Base Design:*<br>
 ![Base](https://1.bp.blogspot.com/-e5jswKpSgxk/X-DaIR2ddEI/AAAAAAAAZo0/XYgjjUuMrgMj6kL-M-xtR8J4QBnjyYZEgCLcBGAsYHQ/w640-h394/Base.png)
 
-*Cover Design*:
+*Cover Design:*<br>
 ![Cover](https://1.bp.blogspot.com/-VHK5UtzQ37M/X-DaIT1mjnI/AAAAAAAAZow/ZUxxm7mtrqgMTX2g_CbOMXibFtUSsb5LQCLcBGAsYHQ/w640-h386/Cover.png)
 
 The 3D printing files have been posted on Thingiverse at [Pi Zero Time Lapse Camera Case](https://www.thingiverse.com/thing:4692858). A couple of important thing to note after the 3D printing.
@@ -108,22 +108,22 @@ The 3D printing files have been posted on Thingiverse at [Pi Zero Time Lapse Cam
 The Pi Zero and camera can be placed in the mounts, taking care not to bend the ribbon cable completely.
 The set of 4 rubber suction cups can be inserted into the base plate also, and the final result looking like this:
 
-*Pi Zero and Camera in Case*
+*Pi Zero and Camera in Case:*<br>
 ![Pi Zero in case](https://1.bp.blogspot.com/-XYKBYLf50Qw/X-Dv_CDZmfI/AAAAAAAAZpM/kGzK_tL4ZgkmtZAg4gWNeVGniLh28iATACLcBGAsYHQ/w640-h480/IMG_20200508_134045.jpg)
 
 Be sure to align the cover, so that the ventilation slots are above the chipset and the side opening is lined up with the micro USB slot for power cord insertion.
 
 The final assembled product should look like this:
 
-*Back side*:
+*Back side:*<br>
 ![Back of final product](https://1.bp.blogspot.com/-vKc2HvG6SsU/X-DwAKfXZPI/AAAAAAAAZpc/r1jtEYprKLUOMy_MkvRNKJq7aSfZziK8gCLcBGAsYHQ/w640-h480/IMG_20200508_135926.jpg)
 
-*Front side*:
+*Front side:*<br>
 ![Front/Camera of final product](https://1.bp.blogspot.com/-c9ZYAU3e3yk/X-DwAqr1B7I/AAAAAAAAZpg/DYW0BFx520ES5tNCQLQCb3MteVV0QHzsACLcBGAsYHQ/w640-h480/IMG_20200508_135931.jpg)
 
 The Pi Zero camera unit can now be mounted on a window and power attached.
 
-*Mounted in a window*:
+*Mounted in a window:*<br>
 ![Mounted in Window](https://1.bp.blogspot.com/-pPEFh-tL-I8/X-EZ_1WkM3I/AAAAAAAAZp8/44FpnFUW2jcPqqOlR9rqQSjoWNqp8_P4gCLcBGAsYHQ/w480-h640/IMG_20200508_135949.jpg)
 
 ## The Time Lapse Camera Application
